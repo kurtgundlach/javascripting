@@ -15,3 +15,8 @@
      javascripting verify number-to-string.js
 */
 
+var n = 128;
+
+numstring = n.toString();
+
+console.log(numstring);
